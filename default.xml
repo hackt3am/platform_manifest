@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="grapheneos"
            fetch="https://github.com/GrapheneOS/"
-           revision="refs/heads/11" />
+           revision="refs/tags/RQ2A.210405.005.2021.04.22.20" />
   <remote  name="seedvault-app"
            fetch="https://github.com/seedvault-app/" />
   <default revision="refs/tags/android-11.0.0_r34"
